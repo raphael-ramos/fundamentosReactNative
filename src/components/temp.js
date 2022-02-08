@@ -4,6 +4,6 @@ import Estilo from './estilo'
 
 export default props => {
    return(
-       <Text></Text>
+       <Text>Texto</Text>
    )
 }
